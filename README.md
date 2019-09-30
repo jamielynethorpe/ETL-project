@@ -15,7 +15,7 @@ The fields of interest include the following:
 *	Number killed
 *	Number injured
  
- ### Including data from 2018/2019 years
+ 
 
 The following sources for our datasets used:
 
