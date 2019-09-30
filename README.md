@@ -15,9 +15,10 @@ The fields of interest include the following:
 *	Number killed
 *	Number injured
  
- ## Including data from 2018/2019 years
+ ### Including data from 2018/2019 years
 
 The following sources for our datasets used:
+
 https://www.kaggle.com/gunviolencearchive/gun-violence-database
 
 https://www.gunviolencearchive.org/reports
@@ -39,6 +40,6 @@ In order to transform the public data and use it in our study we performed the f
 ## Load
 The last step was to transfer our final output into a Database. We created a database and respective table to match the columns from the final Panda's Data Frame using Postgres database using PG admin to store our original clean data sets. We reconnected to the database and generated additional tables for the data frames. 
 
-### Summary
+## Summary
 
 There were some limitations to our findings due to the data available. However, we were able to address our hypothesis quetion in our intial project proposal listed in the ETL Project Final Write UP.
